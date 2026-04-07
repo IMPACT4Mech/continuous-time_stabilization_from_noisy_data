@@ -24,7 +24,9 @@ YALMIP: https://yalmip.github.io
 ## Contact
 
 Alessandro Bosso
+
 University of Bologna
+
 Email: alessandro.bosso@unibo.it
 
 
